@@ -1,0 +1,23 @@
+Coluna,Tipo de Dado,% de Faltantes,Exemplo de Valor
+pedido_id,int64,0.00%,500000
+data_hora,datetime64[us],0.00%,2024-01-01 11:21:00
+cidade,str,0.00%,São Paulo
+bairro,str,0.00%,Tatuapé
+restaurante_id,str,0.00%,R912
+tipo_cozinha,str,0.00%,Hambúrguer
+plataforma,str,0.00%,Android
+forma_pagamento,str,0.00%,Pix
+cupom,bool,0.00%,False
+cliente_novo,bool,0.00%,False
+chuva,bool,0.00%,False
+distancia_km,float64,4.00%,2.68
+tempo_entrega_min,float64,0.41%,28.0
+valor_pedido,float64,0.00%,44.02
+taxa_entrega,float64,0.00%,7.4
+avaliacao,float64,16.65%,4.0
+data,object,0.00%,2024-01-01
+mes,int32,0.00%,1
+hora,int32,0.00%,11
+dia_semana,category,0.00%,Seg
+ano,int32,0.00%,2024
+semana,period[W-SUN],0.00%,2024-01-01/2024-01-07
